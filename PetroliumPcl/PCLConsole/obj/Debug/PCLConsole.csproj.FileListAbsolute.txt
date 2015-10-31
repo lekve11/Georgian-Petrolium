@@ -8,3 +8,15 @@ C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\obj\Debug\PCLConsole.exe
 C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\obj\Debug\PCLConsole.pdb
 C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\bin\Debug\Newtonsoft.Json.dll
 C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\bin\Debug\Newtonsoft.Json.xml
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\bin\Debug\PCLConsole.exe.config
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\obj\Debug\PCLConsole.exe
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\obj\Debug\PCLConsole.pdb
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\bin\Debug\PCLConsole.exe
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\bin\Debug\PCLConsole.pdb
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\bin\Debug\Newtonsoft.Json.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\bin\Debug\PetroliumPcl.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\bin\Debug\PetroliumPcl.pdb
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\bin\Debug\Newtonsoft.Json.xml
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\obj\Debug\PCLConsole.csprojResolveAssemblyReference.cache
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\bin\Debug\HtmlAgilityPack.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PCLConsole\bin\Debug\HtmlAgilityPack.pdb

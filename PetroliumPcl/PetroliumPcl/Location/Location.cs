@@ -56,6 +56,22 @@ namespace PetroliumPcl.Location
             @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=wissol+khashuri&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c"});
             _petroliumLocationUrls.Add("gulf",new string[] { @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=gulf+tbilisi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c" , @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=gulf+batumi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c",
             @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=gulf+kutaisi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c",@"https://maps.googleapis.com/maps/api/place/textsearch/json?query=gulf+khashuri&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c"});
+
+            _petroliumLocationUrls.Add("socar", new string[] { @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=socar+tbilisi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c",
+                @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=socar+batumi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c",
+                @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=socar+khashuri&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c"
+            });
+
+            _petroliumLocationUrls.Add("rompetrol", new string[] { @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=rompetrol+tbilisi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c",
+                @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=rompetrol+batumi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c",
+
+            });
+
+            _petroliumLocationUrls.Add("frego", new string[] { @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=frego+tbilisi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c",
+                    @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=frego+batumi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c",
+                    @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=frego+kutaisi&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c",
+                    @"https://maps.googleapis.com/maps/api/place/textsearch/json?query=frego+kakheti&type=gas_station&key=AIzaSyAgl3JVvIhFLDE6XQE34poFa5PlsFZf56c"
+            });
          }
 
         public static List<StationLocation> GetStationLocations(string petroliumId)

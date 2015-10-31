@@ -13,3 +13,20 @@ C:\Users\lekve\Desktop\PetroliumPcl\PetroliumPcl\obj\Debug\PetroliumPcl.csproj.A
 C:\Users\lekve\Desktop\PetroliumPcl\PetroliumPcl\obj\Debug\PetroliumPcl.dll
 C:\Users\lekve\Desktop\PetroliumPcl\PetroliumPcl\obj\Debug\PetroliumPcl.pdb
 C:\Users\lekve\Desktop\PetroliumPcl\PetroliumPcl\obj\Debug\PetroliumPcl.csprojResolveAssemblyReference.cache
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\PetroliumPcl.dll.config
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\PetroliumPcl.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\PetroliumPcl.pdb
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\HtmlAgilityPack.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\Newtonsoft.Json.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\System.Net.Http.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\System.Net.Http.Extensions.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\System.Net.Http.Primitives.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\HtmlAgilityPack.pdb
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\Newtonsoft.Json.xml
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\System.Net.Http.xml
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\System.Net.Http.Extensions.xml
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\bin\Debug\System.Net.Http.Primitives.xml
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\obj\Debug\PetroliumPcl.csproj.App.config
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\obj\Debug\PetroliumPcl.csprojResolveAssemblyReference.cache
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\obj\Debug\PetroliumPcl.dll
+E:\Georgian Petrolium\Georgian-Petrolium\PetroliumPcl\PetroliumPcl\obj\Debug\PetroliumPcl.pdb

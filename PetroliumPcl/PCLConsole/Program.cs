@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Net;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
@@ -10,12 +12,9 @@ using PetroliumPcl.Petrolium;
 
 namespace PCLConsole
 {
-
-
     class Program
     {
         
-
         static void Main(string[] args)
         {
             List<PetrolCompany> petroliums = PetrolCompanyContext.GetPetroliums();
@@ -29,10 +28,7 @@ namespace PCLConsole
                 }
             }
 
-            PetrolCompany lukoil = petroliums[0];
-
-            var locationDist = lukoil.Locations.Distinct().ToList();
-
+            
             Console.ReadLine();
         }
     }
