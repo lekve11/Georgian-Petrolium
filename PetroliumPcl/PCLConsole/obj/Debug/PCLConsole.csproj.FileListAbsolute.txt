@@ -1,0 +1,10 @@
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\bin\Debug\PCLConsole.exe.config
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\bin\Debug\PCLConsole.exe
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\bin\Debug\PCLConsole.pdb
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\bin\Debug\PetroliumPcl.dll
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\bin\Debug\PetroliumPcl.pdb
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\obj\Debug\PCLConsole.csprojResolveAssemblyReference.cache
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\obj\Debug\PCLConsole.exe
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\obj\Debug\PCLConsole.pdb
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lekve\Desktop\PetroliumPcl\PCLConsole\bin\Debug\Newtonsoft.Json.xml
