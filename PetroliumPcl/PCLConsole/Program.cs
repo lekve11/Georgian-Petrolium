@@ -10,33 +10,6 @@ using PetroliumPcl.Petrolium;
 
 namespace PCLConsole
 {
-    public class GulfPrices
-    {
-        [JsonProperty("key")]
-        public string FuelKey { get; set; }
-
-        [JsonProperty("value")]
-        public decimal Price { get; set; }
-    }
-
-
-    public class DataOfPrices
-    {
-        public List<GulfPrices> prices { get; set; }
-    }
-
-    public class RootObjectForGulf<T>
-    {
-        public string status { get; set; }
-        public T message { get; set; }
-    }
-
-    public class FuelKeys
-    {
-        public string key { get; set; }
-        public string name_ge { get; set; }
-        public string name_en { get; set; }
-    }
 
 
     class Program
