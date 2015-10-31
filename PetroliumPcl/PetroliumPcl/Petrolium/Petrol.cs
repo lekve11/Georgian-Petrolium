@@ -19,11 +19,13 @@ namespace PetroliumPcl.Petrolium
 
     public interface IPetroliumLocation
     {
-        IEnumerable<StationLocation> Locations { get; set; }
+        IEnumerable<StationLocation> Locations { get;}
     }
 
     public class PetrolCompany : IPetrolium,IPetroliumLocation
     {
+        private List<StationLocation> _locations;
+
         public IEnumerable<IFuel> Fuels
         {
             get; set;
@@ -36,7 +38,13 @@ namespace PetroliumPcl.Petrolium
 
         public IEnumerable<StationLocation> Locations
         {
-            get;set;
+            get
+            {
+                if (_locations == null)
+                    _locations = LocationContext.GetStationLocations(this.Id);
+
+                return _locations;
+            }
         }
 
         public string Name

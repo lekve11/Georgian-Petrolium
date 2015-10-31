@@ -21,7 +21,7 @@ namespace PetroliumPcl.Factory
                 petrolCompany.Fuels = fuelsFromApi;
             }
 
-            petrolCompany.Locations = LocationContext.GetStationLocations(petrolCompany.Id);
+            //petrolCompany.Locations = LocationContext.GetStationLocations(petrolCompany.Id);
             return petrolCompany;
         }
         
