@@ -19,7 +19,7 @@ namespace PetroliumPcl.Petrolium
 
     public interface IPetroliumLocation
     {
-        IEnumerable<StationLocation> Locations { get;}
+        IEnumerable<ILocation> Locations { get;}
     }
 
     public class PetrolCompany : IPetrolium,IPetroliumLocation
@@ -36,7 +36,7 @@ namespace PetroliumPcl.Petrolium
             get; set;
         }
 
-        public IEnumerable<StationLocation> Locations
+        public IEnumerable<ILocation> Locations
         {
             get
             {

@@ -35,7 +35,13 @@ namespace PetroliumPcl.Location
 
     #endregion
 
-    public class StationLocation
+    public interface ILocation
+    {
+        double Latitude { get; set; }
+        double Longitude { get; set; }
+    }
+
+    public class StationLocation:ILocation
     {
         public string StationId { get; set; }
         public double Latitude { get; set; }
